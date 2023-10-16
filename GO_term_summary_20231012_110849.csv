@@ -1,0 +1,17 @@
+﻿MGI Gene/Marker ID,Symbol,Name,Chr,Qualifier,Annotated Term,Context,Proteoform,Evidence,Inferred From,Reference(s)
+MGI:96919,Ascl1,achaete-scute family bHLH transcription factor 1,10,,ventral spinal cord interneuron fate commitment,,,IMP,,J:100187 
+MGI:94867,Dbx1,developing brain homeobox 1,7,,ventral spinal cord interneuron specification,"happens in neural tube,results in a cell being specified to become interneuron",,IMP,MGI:2182329 ,J:70191 
+MGI:1859388,Dll4,delta like canonical Notch ligand 4,2,,ventral spinal cord interneuron fate commitment,,,ISO,Q9NR61 ,J:164563 
+MGI:2449470,Dmrt3,doublesex and mab-3 related transcription factor 3,19,,ventral spinal cord interneuron specification,happens in spinal cord,,IMP,MGI:4420993 ,J:187218 
+MGI:2151057,Foxn4,forkhead box N4,5,,ventral spinal cord interneuron differentiation,,,IMP,,J:164670 
+MGI:2151057,Foxn4,forkhead box N4,5,,ventral spinal cord interneuron fate commitment,,,IMP,,J:100187 
+MGI:2151057,Foxn4,forkhead box N4,5,,ventral spinal cord interneuron fate commitment,,,IMP,,J:128001 
+MGI:95662,Gata2,GATA binding protein 2,6,,ventral spinal cord interneuron differentiation,"happens in future spinal cord,results in the differentiation of spinal cord interneuron",,IMP,MGI:1857743 ,J:63686 
+MGI:95728,Gli2,GLI-Kruppel family member GLI2,1,,smoothened signaling pathway involved in ventral spinal cord interneuron specification,"is a part of ventral spinal cord interneuron specification,happens in interneuron,happens in future spinal cord",,IGI,MGI:95729 ,J:92067 
+MGI:95729,Gli3,GLI-Kruppel family member GLI3,13,,smoothened signaling pathway involved in ventral spinal cord interneuron specification,"is a part of ventral spinal cord interneuron specification,happens in interneuron,happens in future spinal cord",,IGI,MGI:95728 ,J:92067 
+MGI:102673,Lhx3,LIM homeobox protein 3,2,,ventral spinal cord interneuron specification,,,IDA,,J:152175 
+MGI:109360,Lmo4,LIM domain only 4,3,,ventral spinal cord interneuron differentiation,,,IDA,,J:152175 
+MGI:97347,Nkx2-2,NK2 homeobox 2,2,,ventral spinal cord interneuron fate determination,"happens in future spinal cord,results in a cell's determination to become interneuron",,IMP,MGI:1932100 ,J:54240 
+MGI:98297,Shh,sonic hedgehog,5,,ventral spinal cord interneuron specification,,,ISO,Q63673 ,J:73065 
+MGI:98357,Sox1,SRY (sex determining region Y)-box 1,8,,ventral spinal cord interneuron specification,,,IMP,MGI:3653406 ,J:164670 
+MGI:1345643,Sufu,SUFU negative regulator of hedgehog signaling,19,,smoothened signaling pathway involved in ventral spinal cord interneuron specification,"is a part of ventral spinal cord interneuron specification,happens in interneuron,happens in neural tube",,IMP,MGI:4840420 ,J:151923 
